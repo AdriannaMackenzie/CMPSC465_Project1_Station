@@ -1,0 +1,37 @@
+Documentation:
+Each source file (.cpp or .h file) should contain the following three types of documentation:
+
+I. File Name:
+Each file of your projects should be named beginning "proj" followed by the assignment number. For example, the fifth project should be named: proj5.cpp, or proj5.h.
+
+II. Prologue:
+The following format should be used at the beginning of each file:
+
+/**
+
+*File Name: Begin with "assign" and then the assignment number, for example, proj1.cpp, or proj1.h. You must have the extension .cpp or .h
+
+*Academic Integrity Statement: I certify that, while others may have assisted me in brain storming, debugging and validating this program, the program itself is my own work. I understand that submitting code which is the work of other individuals is a violation of the course Academic Integrity Policy and may result in a zero credit for the assignment, or course failure and a report to the Academic Dishonesty Board. I also understand that if I knowingly give my original work to another individual that it could also result in a zero credit for the assignment, or course failure and a report to the Academic Dishonesty Board. See Academic Integrity Procedural GuidelinesLinks to an external site. at:  https://psbehrend.psu.edu/intranet/faculty-resources/academic-integrity/academic-integrity-procedural-guidelinesLinks to an external site.
+
+*Assisted by and Assisted line numbers:
+
+
+*Your Name: XXXXXXXXXXX
+
+*Your PSU user ID:  abc123
+
+*Course title (e.g. CMPSC122 Semester 20XX) 
+
+*Due Time: Time, Day-of-week, Month Day, Year
+
+*Time of Last Modification: Time, Day-of-week, Month Day, Year
+
+*Description: What does it do?
+
+*/
+
+III. Comments and Structuring:
+Comments the purpose at every point of the program at which the reader needs help in understanding. Make the program largely self-explanatory by arranging it in an intelligent way and giving informative names to your variables and procedures. Then fewer comments are needed since you must only comment the non-obvious. Maintain consistent indentation.
+
+IV. Output:
+You are required to copy and paste your program's standard output as the comment in your source code file right after the main function for all program assignments
